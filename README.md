@@ -1,8 +1,8 @@
 # skrencikk<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=45&pause=1000&color=A277FF&center=true&vCenter=true&width=1100&lines=Hi+👋,+I'm+skrencikk;+IT+Student+🎓;&center=false" alt="Typing SVG" /> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=45&pause=1000&color=005cff&center=true&vCenter=true&width=1100&lines=Hi+👋,+I'm+skrencikk;+IT+Student+🎓;&center=false" alt="Typing SVG" /> 
 </h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A277FF&center=true&vCenter=true&width=1100&lines=I+try+my+best+at+coding+but+i+still+have+much+to+learn.📜📖;This+page+is+still+under+construction...;&center=false" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=005cff&center=true&vCenter=true&width=1100&lines=I+try+my+best+at+coding+but+i+still+have+much+to+learn.📜📖;This+page+is+still+under+construction...;&center=false" alt="Typing SVG" />
 </h3>
 
 <div align="center">
