@@ -10,7 +10,7 @@
 </div>
 
 
-<h2>Im currently using these tools / languages! (probably not all of them are here) :D</h2>
+<h2>Im currently using these tools / languages! :D</h2>
 <div align="center" background="#fff">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
